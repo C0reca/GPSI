@@ -1,0 +1,35 @@
+1.Login 
+	1.1 Neste menu o utilizador tem de escolher se quer entrar como jogador ou administrador.
+	1.2 Para entrar como jogador basta escrever o numero 1 na opção e sera redirecionado para o menu de jogo.
+	1.3 Para entrar como administrador basta escrever o numero 2 na opção e sera pedida a password de administrador, após inserir a password sera redirecionado para o menu de administração.
+	1.4 Para encerrar o programa basta escrever o numero 4 na opção.
+
+2.Jogos
+	2.1 Neste menu o utilizador tem de escolher qual jogo vai jogar escrevendo o numero opção desejada na opção.
+	2.2 Para jogar "Pedra Papel Tesoura" basta escrever o numero 1 na opção e sera redirecionado para o menu do jogo.
+	2.3 Para jogar o "Jogo do Galo" basta escrever o numero 2 na opção e sera redirecionado para o menu do jogo.
+	2.4 Para voltar para o menu de login basta escreve o numero 4 na opção e sera redirecionado para o login
+
+3.Pedra Papel Tesoura
+	3.1 Para jogar o jogo escolhido anteriormente basta escrever o número 1 na opção.
+	3.2 A opção 2 serve para ver os resultados do jogo
+	3.3 Regras do jogo:
+		3.3.1 A pedra ganha a tesoura
+		3.3.2 A tesoura ganha ao papel
+		3.3.3 O papel ganha a pedra
+	3.4 Para voltar para o menu de jogos basta escrever o numero 4 e sera redirecionado para o menu de jogos
+
+4.Jogo do Galo
+	4.1 Para jogar o jogo escolhido anteriormente basta escrever o número 1 na opção.
+	4.2 A opção 2 serve para ver os resultados do jogo
+	4.3 Regras do jogo:
+		4.3.1 Os dois jogadores colocam, alternadamente, as suas peças de forma a construirem uma linha com 3 peças iguais em tabuleiros 3 × 3.
+		4.3.2 A linha de peças iguais pode ser construída na vertical, horizontal e obliqua
+	4.4Para voltar para o menu de jogos basta escrever o numero 4 e sera redirecionado para o menu de jogos
+
+5.Menu Administrador
+	5.1 No menu de administrador o utilizado poderá fazer ações que jogadores normais não.
+	5.2 Na opção 1 o utilizador pode mudar a password, basta inserir o numero 1 na opção  e a seguir inserir a nova password.
+	5.3 Na opção 2 o utilizador pode apagar os resultados guardados do jogo "Pedra Papel Tesoura".
+	5.4 Na opção 3 o utilizador pode apagar os resultados guardados do "Jogo do Galo".
+	5.5 Para voltar para o menu de login basta escreve o numero 5 na opção e sera redirecionado para o login	

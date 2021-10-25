@@ -1,0 +1,12 @@
+Nome: Rui Santos
+Número: 11
+Turma: 10ºD
+Escola: Escola Secundária Diogo de Macedo
+Ano Letivo: 2019/20
+Disciplina: Programação de Sistemas Informáticos
+Módulo: 7 - Tratamento de Ficheiros'
+Tema: Mini Jogos
+Objetivo: Criar um programa para guardar os resultados dos mini jogos em ficheiros.
+O programa vai permitir jogar mini jogos e vai guardar todos os resultados num ficheiro.
+Como há vários mini jogos ira haver vários ficheiros que irão ser geridos pelo administrador
+do programa, pois o programa irá ter 2 utilizadores jogador e administrador
