@@ -1,0 +1,16 @@
+Projeto realizado no ambito da disciplina de PSI no 10 ano do curso GPSI na linguagem de Python
+
+Objetivos:
+  • O programa a criar deve ter por base o tema escolhido e os objetivos estipulados. O programa deverá ser apelativo e intuitivo. 20 pontos
+  • O programa deverá estar estruturado em 3 partes:
+    o Ecrã inicial: com informações sobre o programa e o autor. O utilizador só deverá avançar depois de responder a uma pergunta ou premir uma tecla. 10 pontos
+    o Ecrã secundário: com duas opções (Entrar e Ajuda). Na opção Entrar, deverá ser pedida uma password que deverá estar guardada num ficheiro. 20 pontos
+    o Outros ecrãs: com as opções adequadas ao objetivo do programa e à manipulação do ficheiro. 150 pontos
+  • É obrigatório a utilização de:
+    o Ficheiros
+    o Funções
+    o Validação de dados
+    o Comentários
+    o Estruturas de repetição e decisão.
+    
+ 
